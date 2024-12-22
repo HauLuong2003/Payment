@@ -1,0 +1,11 @@
+D:\Project_C#\VNPay-Payment\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Project_C#\VNPay-Payment\Domain\bin\Debug\net8.0\Domain.dll
+D:\Project_C#\VNPay-Payment\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\Domain.dll
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Project_C#\VNPay-Payment\Domain\obj\Debug\net8.0\ref\Domain.dll
