@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1wyFIPc0aELm5LgutE0XVDLN9J9aP76m5RcLcnhf1Ws=",
+  "Source": "VNPay-Payment",
+  "BasePath": "_content/VNPay-Payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@VNPay_Payment_HostAddress = http://localhost:5147
+
+GET {{VNPay_Payment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
